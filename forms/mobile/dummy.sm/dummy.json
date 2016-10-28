@@ -15,22 +15,24 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sc162686ccb74f0bb8739dcc38a99d74",
+    "_skin_": "s3f768fd25ab44b297054cc4d6ed59a4",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
     "android": {
-        "needAppMenu": false,
         "psp": {
             "windowSoftInputMode": 2
         }
     },
     "canUpdateUI": true,
     "children": [
-        "SearchContainer",
-        "course1MainContainer",
-        "course2MainContainer",
-        "course3MainContainer"
+        "FlexContainer0136075819e5649",
+        "FlexScrollContainer06fee17e1a65446",
+        "Label0903b08748e4040",
+        "ListBox04da92dca0fdd46",
+        "RadioButtonGroup0ade693d6bef648",
+        "Map09796e220a32442",
+        "Phone0fe7eacdf824242"
     ],
     "containerweight": 100,
     "currentLocale": "default",
@@ -40,7 +42,7 @@
     "device": "iPhone6",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Courses",
+    "id": "dummy",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -50,7 +52,6 @@
         }
     },
     "iphone": {
-        "needAppMenu": false,
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarConfig": {
@@ -66,41 +67,26 @@
                 "titleBarRightSideView": "button",
                 "titleClosureLeftSideView": "",
                 "titleClosureRightSideView": "",
-                "visible": false
+                "visible": true
             }
         },
-        "titleBar": false
+        "titleBar": true
     },
     "isvisible": true,
-    "kuid": "e3003af96edc4b20a27c0b6724acb714",
+    "kuid": "1a2664b61f60451c846fc9bc60af3526",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "paddinginpixel": false,
     "platform": "iphone",
     "prevDevice": "iPhone6",
-    "prevPlatform": "spaip",
+    "prevPlatform": "iphone",
     "retainscrollposition": false,
     "shellCSS": "iOS_iPhone6",
     "snapgridsize": 10,
     "snaptogrid": true,
-    "spaan": {
-        "needAppMenu": false
-    },
-    "spabb": {
-        "needAppMenu": false
-    },
-    "spaip": {
-        "needAppMenu": false
-    },
-    "spawinphone8": {
-        "needAppMenu": false
-    },
     "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
     "titlebar": true,
     "type": 3,
-    "wType": "Form",
-    "winphone8": {
-        "needAppMenu": false
-    }
+    "wType": "Form"
 }

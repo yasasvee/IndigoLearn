@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4a93b27e6d34e598a025b25a23236ad",
+    "_srcKuid_": "ed280f85248044f8b3243f2431a821b6",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "id": "SearchTextBox"
+    },
+    "id": "SearchTextBox",
+    "instanceOf": "ed280f85248044f8b3243f2431a821b6",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m49595e2823343fd814605a57411dafd",
+    "masterInstance": true,
+    "name": "kony.ui.TextBox2",
+    "parent": "SearchContainer",
+    "pf": "Courses",
+    "topLevelInstanceKUID": "mb90a218b2634eaca7eb98cea1a052ed",
+    "wType": "TextField"
+}

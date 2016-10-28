@@ -1,0 +1,128 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "chapterImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1477594650_books.png"
+            },
+            "chapterNamesLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "chapterImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1477594650_books.png"
+            },
+            "chapterNamesLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "chapterImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1477594650_books.png"
+            },
+            "chapterNamesLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "04db196af62d448e947fd3221dabf241",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "chaptersSegment",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "812399de2e41466caa1c70bda3502f2e",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "CoursesWithChapters",
+    "pf": "CoursesWithChapters",
+    "retainselection": false,
+    "rowTemplateId": "04db196af62d448e947fd3221dabf241",
+    "rowcounter": 2,
+    "rowfocusskin": "sf1d7a2d53d9427592ed2ff84d501602",
+    "rowskin": "sede546b2e50499f861f98441a923179",
+    "rowtemplate": "FBox088b7ce600d3f43",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sf7661403aa04625b7fc93e2504879b4",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 4,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "chapterImage": "chapterImage",
+        "chapterNamesLabel": "chapterNamesLabel"
+    },
+    "zindex": 1
+}

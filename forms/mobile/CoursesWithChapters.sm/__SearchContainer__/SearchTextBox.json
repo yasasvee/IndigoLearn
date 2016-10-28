@@ -1,0 +1,50 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4a93b27e6d34e598a025b25a23236ad",
+    "_srcKuid_": "ed280f85248044f8b3243f2431a821b6",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "autoCapitalize": "none",
+        "bottom": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "containerHeight": "",
+        "id": "SearchTextBox",
+        "left": {
+            "type": "string",
+            "value": "10%"
+        },
+        "placeholder": "Search for Chapters or Courses",
+        "secureTextEntry": false,
+        "text": "",
+        "textInputMode": "A",
+        "top": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "260dp"
+        },
+        "zIndex": 1
+    },
+    "id": "SearchTextBox",
+    "instanceOf": "ed280f85248044f8b3243f2431a821b6",
+    "isvisible": true,
+    "kuid": "m62bbf6f2efd4c0c903b7040777a268e",
+    "masterInstance": true,
+    "name": "kony.ui.TextBox2",
+    "parent": "SearchContainer",
+    "pf": "CoursesWithChapters",
+    "topLevelInstanceKUID": "m65e82540b3043ccb623701a41254729",
+    "wType": "TextField"
+}

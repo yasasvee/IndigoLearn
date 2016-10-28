@@ -1,0 +1,56 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5b38c1744c74ae2850b4fc249e7ba73",
+    "_srcKuid_": "m5e96cc66d6c4b348fc06c8decb552cd",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "SearchTextBox",
+        "SearchImage"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "SearchContainer",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "id": "SearchContainer",
+    "instanceOf": "m5e96cc66d6c4b348fc06c8decb552cd",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "m65e82540b3043ccb623701a41254729",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CoursesWithChapters",
+    "pf": "CoursesWithChapters",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

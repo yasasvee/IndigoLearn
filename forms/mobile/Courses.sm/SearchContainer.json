@@ -1,0 +1,36 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5b38c1744c74ae2850b4fc249e7ba73",
+    "_srcKuid_": "m5e96cc66d6c4b348fc06c8decb552cd",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "SearchTextBox",
+        "SearchImage"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "id": "SearchContainer"
+    },
+    "id": "SearchContainer",
+    "instanceOf": "m5e96cc66d6c4b348fc06c8decb552cd",
+    "isTopFlexInstance": true,
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "mb90a218b2634eaca7eb98cea1a052ed",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Courses",
+    "pf": "Courses",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

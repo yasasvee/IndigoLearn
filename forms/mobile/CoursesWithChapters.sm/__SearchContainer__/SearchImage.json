@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb2916d9b1014baea445276d0cfa2bd7",
+    "_srcKuid_": "37338a087c8c4af1a05be2e3f52dba93",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "bottom": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "id": "SearchImage",
+        "imageScaleMode": 1,
+        "right": {
+            "type": "string",
+            "value": "5%"
+        },
+        "src": "s2.png",
+        "top": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "10%"
+        },
+        "zIndex": 1
+    },
+    "id": "SearchImage",
+    "instanceOf": "37338a087c8c4af1a05be2e3f52dba93",
+    "isvisible": true,
+    "kuid": "m679519c63884bb19aa34fb6025beaa2",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "SearchContainer",
+    "pf": "CoursesWithChapters",
+    "topLevelInstanceKUID": "m65e82540b3043ccb623701a41254729",
+    "wType": "Image"
+}

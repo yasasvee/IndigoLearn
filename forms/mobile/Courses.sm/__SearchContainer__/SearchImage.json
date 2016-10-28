@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb2916d9b1014baea445276d0cfa2bd7",
+    "_srcKuid_": "37338a087c8c4af1a05be2e3f52dba93",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "id": "SearchImage"
+    },
+    "id": "SearchImage",
+    "instanceOf": "37338a087c8c4af1a05be2e3f52dba93",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "mada8ab5a47443f1b040f515048797a3",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "SearchContainer",
+    "pf": "Courses",
+    "topLevelInstanceKUID": "mb90a218b2634eaca7eb98cea1a052ed",
+    "wType": "Image"
+}

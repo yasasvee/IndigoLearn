@@ -1,0 +1,34 @@
+{
+    "AS_Label_0dd72dfbb2f746389ef84f1d3bd7d8e9": {
+        "id": "AS_Label_0dd72dfbb2f746389ef84f1d3bd7d8e9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Courses",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e3003af96edc4b20a27c0b6724acb714"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___468cf3b1d36b46d898f0f164c0e33e27",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "CoursesWithChapters",
+            "formKUID": "93598949f1414c5b889a296f5e0c950c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

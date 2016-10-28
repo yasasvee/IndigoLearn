@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "s2d0f88dd7d84bdbb779f63cac6f0359",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Course1Label",
+        "course1Container",
+        "course1Image"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "course1MainContainer",
+    "info": null,
+    "isvisible": true,
+    "kuid": "658e43fb8e3d4c1789bde4d275c02b3b",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Courses",
+    "pf": "Courses",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

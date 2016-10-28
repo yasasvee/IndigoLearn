@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "14dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc16c7db5aac440c8946166ddc6e3e15",
+    "_top_": {
+        "type": "string",
+        "value": "223dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "TabPane0e4691f409a164b",
+        "CheckBoxGroup0cde47c1b093e47",
+        "Slider0ce81a6abb56649",
+        "TextArea00d1992ec14d249",
+        "TextField02a4eb5f1c9974b",
+        "CordovaBrowser06091c101e7884b",
+        "CordovaBrowser048d12526c48e4e",
+        "Camera0da07bed7016746",
+        "PickerView01e9399673c0e43",
+        "Segment003a8ae621e8c47",
+        "Video09d97e8b1f69844"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "FlexScrollContainer06fee17e1a65446",
+    "info": null,
+    "isvisible": true,
+    "kuid": "820a75e97b964ea7a18d1405ae853eb0",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "dummy",
+    "pf": "dummy",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}
