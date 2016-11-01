@@ -1,0 +1,70 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s921f58a32f849c3bf0bf45179036e64",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m2f21c69b4b74dd09546afb78b8bd7ad",
+        "m9a82f0c53784546aa6264a6693723c1",
+        "m453da2568c646c68fcced07cafeecf0",
+        "mbc5f3ad8b374b49af26d716031e6acb",
+        "mfc8996aaa72426a9d6aad4631e664ba",
+        "m4879469d1fe44668fb7f979a9d75aba",
+        "m0b5a8a38c854802b2eb92795106465e"
+    ],
+    "children": [
+        "FlexContainer03d2a52b182a040",
+        "FlexContainer00fd4f274b99541"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcCourseCard",
+    "info": null,
+    "isvisible": true,
+    "kuid": "md4f2fa5fa314e13998d77d10e16cbdf",
+    "layouttype": 4,
+    "masterTopLevelFlex": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CourseCard",
+    "pf": "CourseCard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

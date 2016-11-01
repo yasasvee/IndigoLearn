@@ -1,0 +1,54 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s921f58a32f849c3bf0bf45179036e64",
+    "_srcKuid_": "5f9a2cec7266400aac7d2d0675baa3d5",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "lblCourseTitle",
+        "lblFaculty"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "70%"
+        },
+        "id": "FlexContainer00fd4f274b99541",
+        "layoutType": 4,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "FlexContainer00fd4f274b99541",
+    "instanceOf": "5f9a2cec7266400aac7d2d0675baa3d5",
+    "isvisible": true,
+    "kuid": "m647aaa683f747e5a93163e7f2b974ac",
+    "layouttype": 4,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyFlexContainer0058b3b2bdf4646",
+    "pf": "Home",
+    "topLevelInstanceKUID": "m4879469d1fe44668fb7f979a9d75aba",
+    "wType": "FlexContainer"
+}

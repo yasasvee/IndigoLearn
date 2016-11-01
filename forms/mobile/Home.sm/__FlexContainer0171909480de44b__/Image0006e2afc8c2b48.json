@@ -1,0 +1,47 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb2916d9b1014baea445276d0cfa2bd7",
+    "_srcKuid_": "5394630bf67a469b91f8a4516a127f2c",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "Image0006e2afc8c2b48",
+        "imageScaleMode": 0,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "src": "taxation.png",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image0006e2afc8c2b48",
+    "instanceOf": "5394630bf67a469b91f8a4516a127f2c",
+    "isvisible": true,
+    "kuid": "me8b89791a6b4282a19883804f0d1532",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer03d2a52b182a040",
+    "pf": "Home",
+    "srcType": 1,
+    "topLevelInstanceKUID": "m453da2568c646c68fcced07cafeecf0",
+    "wType": "Image"
+}

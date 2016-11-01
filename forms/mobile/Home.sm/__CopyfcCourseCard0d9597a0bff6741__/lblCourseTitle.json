@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8ead3fa5f4146debc6677c1e68d9c7f",
+    "_srcKuid_": "cddf35de8dca4936b5d609771b58fe3b",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        },
+        "id": "lblCourseTitle",
+        "left": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "text": "Information Technology",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "90%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblCourseTitle",
+    "instanceOf": "cddf35de8dca4936b5d609771b58fe3b",
+    "isvisible": true,
+    "kuid": "mbd4f0bd4f764468869f520d9144622a",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer00fd4f274b99541",
+    "pf": "Home",
+    "topLevelInstanceKUID": "m0b5a8a38c854802b2eb92795106465e",
+    "wType": "Label"
+}
