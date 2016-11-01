@@ -1,0 +1,24 @@
+{
+    "AS_Image_ccfbae97c04e4dc69a710687351be3c9": {
+        "id": "AS_Image_ccfbae97c04e4dc69a710687351be3c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "82f54159e8d94587a3480084a8c252e3"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

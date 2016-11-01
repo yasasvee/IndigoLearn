@@ -1,0 +1,47 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb2916d9b1014baea445276d0cfa2bd7",
+    "_srcKuid_": "5394630bf67a469b91f8a4516a127f2c",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "Image0006e2afc8c2b48",
+        "imageScaleMode": 0,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "src": "mercantile.png",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image0006e2afc8c2b48",
+    "instanceOf": "5394630bf67a469b91f8a4516a127f2c",
+    "isvisible": true,
+    "kuid": "m68c6343d52f4b32bffc8e3ab78f9e6d",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer03d2a52b182a040",
+    "pf": "Home",
+    "srcType": 1,
+    "topLevelInstanceKUID": "mbc5f3ad8b374b49af26d716031e6acb",
+    "wType": "Image"
+}

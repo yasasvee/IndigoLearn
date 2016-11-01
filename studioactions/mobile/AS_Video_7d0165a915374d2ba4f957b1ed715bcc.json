@@ -1,0 +1,27 @@
+{
+    "AS_Video_7d0165a915374d2ba4f957b1ed715bcc": {
+        "id": "AS_Video_7d0165a915374d2ba4f957b1ed715bcc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": null,
+            "KUID": "82f54159e8d94587a3480084a8c252e3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___5368849d10d14e34b7a668520ccab84f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "moduleHomeIntroVideoOnPrepared",
+            "display": "moduleHomeIntroVideoOnPrepared",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

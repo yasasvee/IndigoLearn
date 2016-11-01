@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd88553f2746497fb51e9d56d3496dfa",
+    "_srcKuid_": "80b1b80013194d8f9acf647fbe673eb9",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblFaculty",
+        "left": {
+            "type": "string",
+            "value": "3dp"
+        },
+        "text": "Madhuri Valluri",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "7dp"
+        },
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblFaculty",
+    "instanceOf": "80b1b80013194d8f9acf647fbe673eb9",
+    "isvisible": true,
+    "kuid": "m8c66274272546ad93616d57f23b3f32",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer00fd4f274b99541",
+    "pf": "Home",
+    "topLevelInstanceKUID": "m0b5a8a38c854802b2eb92795106465e",
+    "wType": "Label"
+}

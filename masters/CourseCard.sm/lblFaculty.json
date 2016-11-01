@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd88553f2746497fb51e9d56d3496dfa",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m17f69bba2834ff9a999b738e14aab14",
+        "m2b5ab55d2af4414b97ef8ab07a5a7ee",
+        "medaa171eea94da9a76f432ee2b3f5d4",
+        "m19d46a2e68743799bb9bf675638c38d",
+        "m6d5a041d1d040cfbc4db7d33a7f531d",
+        "md2bb149e853418ba5582b8ac3298672",
+        "m8c66274272546ad93616d57f23b3f32"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblFaculty",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "80b1b80013194d8f9acf647fbe673eb9",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer00fd4f274b99541",
+    "pf": "CourseCard",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

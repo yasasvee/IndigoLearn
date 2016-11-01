@@ -1,0 +1,56 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s921f58a32f849c3bf0bf45179036e64",
+    "_srcKuid_": "md4f2fa5fa314e13998d77d10e16cbdf",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "FlexContainer03d2a52b182a040",
+        "FlexContainer00fd4f274b99541"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "220dp"
+        },
+        "id": "fcCourseCard",
+        "layoutType": 4,
+        "left": {
+            "type": "string",
+            "value": "10dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "40%"
+        }
+    },
+    "id": "fcCourseCard",
+    "instanceOf": "md4f2fa5fa314e13998d77d10e16cbdf",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "m2f21c69b4b74dd09546afb78b8bd7ad",
+    "layouttype": 4,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer0c5b62512197c42",
+    "pf": "Home",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

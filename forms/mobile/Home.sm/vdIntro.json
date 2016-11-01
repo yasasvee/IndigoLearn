@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizVideo",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_controls_": true,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_poster_": "",
+    "_skin_": "sf86b6eb8822453d8ba405f47ce4ad23",
+    "_source_": {
+        "mp4": ""
+    },
+    "_text_": "Introduction",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_volume_": 1,
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "ide_onPrepared": "AS_Video_357bb7f812da482fb52704733a5b67c2"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "render": true
+        }
+    },
+    "id": "vdIntro",
+    "info": null,
+    "iphone": {
+        "ide_onPrepared": "AS_Video_7d0165a915374d2ba4f957b1ed715bcc"
+    },
+    "isvisible": false,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "c076de9b318249ffb9a4d4bc1b3855e7",
+    "mp4": "",
+    "name": "kony.ui.Video",
+    "parent": "FlexContainer01c72171f5b884a",
+    "pf": "Home",
+    "spa": {
+        "psp": {
+            "render": true
+        }
+    },
+    "wType": "Video",
+    "watchos": {
+        "render": false
+    },
+    "windows8": {
+        "render": false
+    },
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 2
+}

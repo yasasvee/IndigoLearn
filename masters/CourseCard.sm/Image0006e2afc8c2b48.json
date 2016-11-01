@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb2916d9b1014baea445276d0cfa2bd7",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "me05e2cd7a954b79a2a373d4c2e150a6",
+        "md73a09f13254eada5385df335d59d1b",
+        "me8b89791a6b4282a19883804f0d1532",
+        "m68c6343d52f4b32bffc8e3ab78f9e6d",
+        "m5ed0027dd824904844f8aa09cf3399a",
+        "m3aa9ef9615f4bcfa060bdd787284788",
+        "m499710435aa49958b5eceeee7b2bb72"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "CourseCard",
+        "platform": "iphone",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "Image0006e2afc8c2b48",
+    "imagescalemode": 0,
+    "info": null,
+    "isvisible": true,
+    "kuid": "5394630bf67a469b91f8a4516a127f2c",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer03d2a52b182a040",
+    "pf": "CourseCard",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s921f58a32f849c3bf0bf45179036e64",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m7b9fd46f33848ec98c0fae83b84c80a",
+        "mbfe8909a2254c5897656d024b64b6a8",
+        "mb405f449d9b429a89651b9a4e89ef41",
+        "m999da5fe67d42568b67e7a1667dbccc",
+        "m3d1a8e32b2b443ea1f08b366c7c154b",
+        "m647aaa683f747e5a93163e7f2b974ac",
+        "m21240b17e8a4b58a0469d09b0bafbca"
+    ],
+    "children": [
+        "lblCourseTitle",
+        "lblFaculty"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer00fd4f274b99541",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5f9a2cec7266400aac7d2d0675baa3d5",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcCourseCard",
+    "pf": "CourseCard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

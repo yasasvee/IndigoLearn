@@ -1,0 +1,47 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb2916d9b1014baea445276d0cfa2bd7",
+    "_srcKuid_": "5394630bf67a469b91f8a4516a127f2c",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "Image0006e2afc8c2b48",
+        "imageScaleMode": 0,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "src": "ucourse2.png",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image0006e2afc8c2b48",
+    "instanceOf": "5394630bf67a469b91f8a4516a127f2c",
+    "isvisible": true,
+    "kuid": "me05e2cd7a954b79a2a373d4c2e150a6",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer03d2a52b182a040",
+    "pf": "Home",
+    "srcType": 1,
+    "topLevelInstanceKUID": "m2f21c69b4b74dd09546afb78b8bd7ad",
+    "wType": "Image"
+}

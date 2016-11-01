@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd88553f2746497fb51e9d56d3496dfa",
+    "_srcKuid_": "80b1b80013194d8f9acf647fbe673eb9",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblFaculty",
+        "left": {
+            "type": "string",
+            "value": "3dp"
+        },
+        "text": "Sathya Raghu",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "7dp"
+        },
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblFaculty",
+    "instanceOf": "80b1b80013194d8f9acf647fbe673eb9",
+    "isvisible": true,
+    "kuid": "m19d46a2e68743799bb9bf675638c38d",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer00fd4f274b99541",
+    "pf": "Home",
+    "topLevelInstanceKUID": "mbc5f3ad8b374b49af26d716031e6acb",
+    "wType": "Label"
+}

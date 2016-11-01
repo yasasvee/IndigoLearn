@@ -1,0 +1,33 @@
+{
+    "AS_Video_2c83c8e6b82f42f88fcd247ca59668f8": {
+        "id": "AS_Video_2c83c8e6b82f42f88fcd247ca59668f8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2cfed7cc8e49495cbb0c1322dc3ab663"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___32ea5b37ae1447b7b42c385c4d16f4d1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "moduleHomeIntroVideoOnTouch",
+            "display": "moduleHomeIntroVideoOnTouch",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
