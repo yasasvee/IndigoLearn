@@ -1,0 +1,31 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        4,
+        4,
+        4,
+        4
+    ],
+    "_skin_": "s6cda3c523a9400393a82b0ad89bb5ee",
+    "_text_": "Continue",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s957c3b0ebc94b74871584fa29ca7f5f",
+    "id": "btnContinue",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c958d1b5943a44df8f07425d7e27dd4f",
+    "name": "kony.ui.Button",
+    "parent": "chapterSummary",
+    "pf": "chapterSummary",
+    "wType": "Button"
+}

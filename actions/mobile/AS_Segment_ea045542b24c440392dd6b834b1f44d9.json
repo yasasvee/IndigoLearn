@@ -1,0 +1,34 @@
+{
+    "AS_Segment_ea045542b24c440392dd6b834b1f44d9": {
+        "id": "AS_Segment_ea045542b24c440392dd6b834b1f44d9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "ChapterVideos",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c0e270ae84d241c6bd4f33ac03de3a2f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___9f91e6033b1842cfbcba6db09f918f56",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "PlayVideo",
+            "formKUID": "b32e18f81a474397bad051f085494a5b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

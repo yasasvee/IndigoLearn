@@ -1,0 +1,142 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgNavigateToVideo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rightarrow.png"
+            },
+            "lblVideoName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Video name............."
+            },
+            "lblVideoNumbers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "?"
+            }
+        },
+        {
+            "imgNavigateToVideo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rightarrow.png"
+            },
+            "lblVideoName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Video name............."
+            },
+            "lblVideoNumbers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "?"
+            }
+        },
+        {
+            "imgNavigateToVideo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rightarrow.png"
+            },
+            "lblVideoName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Video name............."
+            },
+            "lblVideoNumbers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "?"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segChapterVideos",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f6b9a12d57b942659bc1f5061a8380ea",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_ea045542b24c440392dd6b834b1f44d9",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "ChapterVideos",
+    "pf": "ChapterVideos",
+    "retainselection": false,
+    "rowTemplateId": "cd562676eb344a1a91337afaba9da0fa",
+    "rowcounter": 2,
+    "rowfocusskin": "s5d946b6f1454494a04f62f261fd3730",
+    "rowskin": "sf425fad9aad4a72bd067070d5a9f082",
+    "rowtemplate": "fcChapterVideos",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s3de6c46e9834c13bd12f440b47bbfe7",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "fcChapterVideos": "fcChapterVideos",
+        "imgNavigateToVideo": "imgNavigateToVideo",
+        "lblVideoName": "lblVideoName",
+        "lblVideoNumbers": "lblVideoNumbers"
+    },
+    "zindex": 1
+}

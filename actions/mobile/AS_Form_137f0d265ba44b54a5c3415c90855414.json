@@ -1,0 +1,58 @@
+{
+    "AS_Form_137f0d265ba44b54a5c3415c90855414": {
+        "id": "AS_Form_137f0d265ba44b54a5c3415c90855414",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Chapters",
+            "type": "forms",
+            "platform": "",
+            "KUID": "00bcee8de2894deb85d77839aa0e2199"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_MAPPING__39e32b34deeb4dd996c2b4c5f4b5707f",
+            "type": "ADD_MAPPING",
+            "mappings": {
+                "ME_Mapping_7ed05fe90c0d43aab9f353b38d59ab38": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_7ed05fe90c0d43aab9f353b38d59ab38",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "source": {
+                        "type": "Variables",
+                        "propertyName": "CourseName",
+                        "dataType": "string",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Headers",
+                        "propertyName": "text",
+                        "widgetId": "lblCourseName",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "tempChaptersHeader",
+                        "parentId": "fcCourseName",
+                        "widgetKUID": "694c75c1e8b642ff9ac372135c34ed91",
+                        "itemKUID": "8bc0cc2f66b048ac852771c5df7576bf",
+                        "parentKUID": "f960edda90a846e6b3b0a173f443fb63",
+                        "forkedPlatform": "all"
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_7ed05fe90c0d43aab9f353b38d59ab38"],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__b050ef45596747ff87afa5fa62ff2a98",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "Chapters.segChaptersList.setData(ChapterList);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

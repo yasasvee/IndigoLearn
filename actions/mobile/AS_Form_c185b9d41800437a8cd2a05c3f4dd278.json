@@ -1,0 +1,57 @@
+{
+    "AS_Form_c185b9d41800437a8cd2a05c3f4dd278": {
+        "id": "AS_Form_c185b9d41800437a8cd2a05c3f4dd278",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ChapterVideos",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c0e270ae84d241c6bd4f33ac03de3a2f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_MAPPING__ffea9e1c41f24d33b141513fe7f3323d",
+            "type": "ADD_MAPPING",
+            "mappings": {
+                "ME_Mapping_44671398992a487680679c64b5cbc3e2": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_44671398992a487680679c64b5cbc3e2",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "source": {
+                        "type": "Variables",
+                        "propertyName": "ChapterName",
+                        "dataType": "string",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Headers",
+                        "propertyName": "text",
+                        "widgetId": "lblChapterNam",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "tempVideosHeader",
+                        "parentId": "fcChapterName",
+                        "widgetKUID": "26de5d9d0eaa430e88d07511e42698e1",
+                        "itemKUID": "6489e5ccc86e4528af6d77167b74f870",
+                        "parentKUID": "c121f5c14e4144258ee042712ea6a8b0",
+                        "forkedPlatform": "all"
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_44671398992a487680679c64b5cbc3e2"],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__88c21ff2c9f24e7693a2d6c406803acd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "ChapterVideos.segChapterVideos.setData(VideoList);",
+            "parentId": null
+        }]
+    }
+}
